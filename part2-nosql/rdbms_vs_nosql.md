@@ -1,1 +1,4 @@
-
+## Database Recommendation
+In a hospital and For a patient management system, it is most important that data is accurate and complete otherwise it would lead to inconsistencies which may lead to bad decision making affecting lives of patients. Therefore, it may be suggested that mySQL would be for a patient management system. Because it would require Relational DBMS, which requires data to have ACID properties -(Atomicity, Consistency, Isolation, Durability). It's not that one model is better than other, its about which is helpful under which circumstances. For example, in an hospital it is vital that data input into the system is accurate and consistent or else it would lead to medical and serious legal consequences.
+MongoDB works on unstructured data which will be less likely to be used in a hospital, therefore leadinh to incosistenciesw. 
+But when it comes to fraud detection module it would mean the data would be large, unstructured and continously changing data. For this MongoDB may be better at use as if provides flexibility and data can be analysed more effectively.
