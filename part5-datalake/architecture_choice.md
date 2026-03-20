@@ -1,3 +1,5 @@
+## Architecture Recommendation
+
 The most appropriate architecture of a fast-growing food delivery startup would be a Data Lakehouse.
 The reason is that the system must operate with a variety of data types, such as structured data, such as payment transactions, semi-structured data, such as GPS logs, and unstructured data, such as customer reviews and menu pictures.
 
